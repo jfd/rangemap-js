@@ -1,0 +1,12 @@
+{
+  "author": "Johan Dahlberg <dahlberg.johan@gmail.com> (jfd.github.com)",
+  "name": "rangemap",
+  "description": "A memory efficient, garbage-collector-friendly, linked list for allocation of fixed-size, indexed ranges.",
+  "version": "0.8.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}

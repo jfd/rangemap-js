@@ -1,0 +1,5 @@
+{
+  "name": "rangemap",
+  "version": "0.8.0",
+  "main": "./rangemap.js"
+}
