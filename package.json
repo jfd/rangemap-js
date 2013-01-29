@@ -3,6 +3,10 @@
   "name": "rangemap",
   "description": "A memory efficient, garbage-collector-friendly, linked list for allocation of fixed-size, indexed ranges.",
   "version": "0.8.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jfd/rangemap-js.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
